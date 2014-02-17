@@ -52,6 +52,7 @@
     "docpad-plugin-partials": "~2.8.1",
     "docpad-plugin-ghpages": "~2.4.2",
     "docpad-plugin-eco": "~2.0.3",
-    "docpad": "~6.63.3"
+    "docpad": "~6.63.3",
+    "grunt-contrib-jshint": "~0.8.0"
   }
 }
